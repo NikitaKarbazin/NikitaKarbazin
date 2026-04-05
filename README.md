@@ -1,22 +1,27 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+%26+Desktop+App+Developer;Tauri+%2B+React+%2B+Angular+%2B+Rust;Building+AI-powered+tools&font=Fira+Code&center=true&width=500&height=45&color=58a6ff&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+%26+Desktop+App+Developer;Tauri+%2B+React+%2B+Angular+%2B+Rust;Building+AI-powered+tools&font=Fira+Code&center=true&width=500&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" alt="Typing SVG" /></a>
+</p>
 
 ## Hey, I'm Nikita 👋
 
 Full-stack developer building **desktop and web applications** with modern technologies.  
 Currently focused on **Tauri v2 + React + Rust** — crafting fast, lightweight apps with AI integration.  
-Experienced across the full stack: from **Angular & React** frontends to **Node.js & Rust** backends, **AWS Lambda**, and **CI/CD automation**.
+Experienced across the full stack: from **Angular & React** frontends to **Node.js & Rust** backends, **AWS Lambda**, **Chrome extensions**, and **CI/CD automation**.
 
 ### 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,angular,rust,nodejs,nestjs,tailwind,sqlite,aws,docker,vscode&theme=dark)](https://skillicons.dev)
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,react,angular,rust,nodejs,nestjs,tailwind,sqlite,aws,docker,vscode&theme=dark" alt="Tech Stack" /></a>
+</p>
 
 **Frontend:** TypeScript, React 19, Angular, Tailwind CSS, shadcn/ui, Radix, Web Components  
-**Backend:** Node.js, Rust, NestJS, Fastify, PHP  
+**Backend:** Node.js, Rust, NestJS, Fastify  
 **Desktop:** Tauri v2, Rust native backends  
+**Browser Extensions:** Chrome Extensions API  
 **Mobile:** Dart, Flutter  
 **Data & State:** SQLite, Zustand, TanStack Query  
 **AI:** Claude API (streaming SSE)  
-**Cloud & DevOps:** AWS Lambda, CI/CD automation  
+**Cloud & DevOps:** AWS Lambda, CI/CD automation, automated bots  
 **Tools:** pnpm, Vite, Cargo
 
 ### 🚀 Featured Projects
@@ -53,10 +58,10 @@ Full-stack monitoring platform with health-check system, SSR frontend, and AWS L
 </td>
 <td width="50%">
 
-#### 🍽 Spevdo
-Delivery platform with restaurant management, browser extension, and an autonomous CI/CD dev-bot.
+#### 🤖 Automation & Extensions
+Chrome browser extensions and autonomous CI/CD dev-bots for streamlining development workflows and delivery pipelines.
 
-`TypeScript` `Shell` `CI/CD`
+`Chrome API` `TypeScript` `Shell` `CI/CD`
 
 </td>
 </tr>
@@ -69,7 +74,6 @@ Delivery platform with restaurant management, browser extension, and an autonomo
 | Project | Description | Tech |
 |---------|------------|------|
 | 🧠 **Mind** | Personal knowledge and thinking tool | TypeScript, React |
-| ⚽ **Dream Team Fantasy** | Fantasy sports platform | TypeScript, PHP |
 | 🔗 **Linfy** | Full-stack web application | TypeScript |
 | 🌊 **Ocean Ronin** | Full-stack web application | TypeScript |
 
@@ -86,13 +90,8 @@ Contributed to projects in the Node.js ecosystem alongside courses with **180+ s
 
 ### 📊 GitHub Stats
 
-<p>
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=NikitaKarbazin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=NikitaKarbazin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaKarbazin&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" height="165" />
 </p>
 
 ---
